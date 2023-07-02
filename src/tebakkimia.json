@@ -1,0 +1,474 @@
+[
+    {
+        "nama": "Hidrogen",
+        "simbol": "H"
+    },
+    {
+        "nama": "Helium",
+        "simbol": "He"
+    },
+    {
+        "nama": "Lithium",
+        "simbol": "Li"
+    },
+    {
+        "nama": "Beryllium",
+        "simbol": "Be"
+    },
+    {
+        "nama": "Boron",
+        "simbol": "B"
+    },
+    {
+        "nama": "Karbon",
+        "simbol": "C"
+    },
+    {
+        "nama": "Nitrogen",
+        "simbol": "N"
+    },
+    {
+        "nama": "Oksigen",
+        "simbol": "O"
+    },
+    {
+        "nama": "Fluorine",
+        "simbol": "F"
+    },
+    {
+        "nama": "Neon",
+        "simbol": "Ne"
+    },
+    {
+        "nama": "Sodium / Natrium",
+        "simbol": "Na"
+    },
+    {
+        "nama": "Magnesium",
+        "simbol": "Mg"
+    },
+    {
+        "nama": "Alumunium",
+        "simbol": "Al"
+    },
+    {
+        "nama": "Silikon",
+        "simbol": "Si"
+    },
+    {
+        "nama": "Fosfor",
+        "simbol": "P"
+    },
+    {
+        "nama": "Belerang / Sulfur",
+        "simbol": "S"
+    },
+    {
+        "nama": "Chlorine",
+        "simbol": "Cl"
+    },
+    {
+        "nama": "Argon",
+        "simbol": "Ar"
+    },
+    {
+        "nama": "Potasium / Kalium",
+        "simbol": "K"
+    },
+    {
+        "nama": "Kalsium",
+        "simbol": "Ca"
+    },
+    {
+        "nama": "Scandium",
+        "simbol": "Sc"
+    },
+    {
+        "nama": "Titanium",
+        "simbol": "Ti"
+    },
+    {
+        "nama": "Vanadium",
+        "simbol": "V"
+    },
+    {
+        "nama": "Chromium",
+        "simbol": "Cr"
+    },
+    {
+        "nama": "Manganese",
+        "simbol": "Mn"
+    },
+    {
+        "nama": "Besi / Ferrum",
+        "simbol": "Fe"
+    },
+    {
+        "nama": "Cobalt",
+        "simbol": "Co"
+    },
+    {
+        "nama": "Nikel",
+        "simbol": "Ni"
+    },
+    {
+        "nama": "Tembaga / Copper",
+        "simbol": "Cu"
+    },
+    {
+        "nama": "Seng / Zinc",
+        "simbol": "Zn"
+    },
+    {
+        "nama": "Gallium",
+        "simbol": "Ga"
+    },
+    {
+        "nama": "Germanium",
+        "simbol": "Ge"
+    },
+    {
+        "nama": "Arsenic",
+        "simbol": "As"
+    },
+    {
+        "nama": "Selenium",
+        "simbol": "Se"
+    },
+    {
+        "nama": "Bromine",
+        "simbol": "Br"
+    },
+    {
+        "nama": "Krypton",
+        "simbol": "Kr"
+    },
+    {
+        "nama": "Rubidium",
+        "simbol": "Rb"
+    },
+    {
+        "nama": "Strontium",
+        "simbol": "Sr"
+    },
+    {
+        "nama": "Yttrium",
+        "simbol": "Y"
+    },
+    {
+        "nama": "Zirconium",
+        "simbol": "Zr"
+    },
+    {
+        "nama": "Niobium",
+        "simbol": "Nb"
+    },
+    {
+        "nama": "Molybdenum",
+        "simbol": "Mo"
+    },
+    {
+        "nama": "Technetium",
+        "simbol": "Tc"
+    },
+    {
+        "nama": "Ruthenium",
+        "simbol": "Ru"
+    },
+    {
+        "nama": "Rhodium",
+        "simbol": "Rh"
+    },
+    {
+        "nama": "Palladium",
+        "simbol": "Pd"
+    },
+    {
+        "nama": "Perak / Argentum",
+        "simbol": "Ag"
+    },
+    {
+        "nama": "Cadmium",
+        "simbol": "Cd"
+    },
+    {
+        "nama": "Indium",
+        "simbol": "In"
+    },
+    {
+        "nama": "Timah / Stannum",
+        "simbol": "Sn"
+    },
+    {
+        "nama": "Antimony",
+        "simbol": "Sb"
+    },
+    {
+        "nama": "Tellurium",
+        "simbol": "Te"
+    },
+    {
+        "nama": "Iodine / Yodium",
+        "simbol": "I"
+    },
+    {
+        "nama": "Xenon",
+        "simbol": "Xe"
+    },
+    {
+        "nama": "Cesium",
+        "simbol": "Cs"
+    },
+    {
+        "nama": "Barium",
+        "simbol": "Ba"
+    },
+    {
+        "nama": "Lanthanum",
+        "simbol": "La"
+    },
+    {
+        "nama": "Cerium",
+        "simbol": "Ce"
+    },
+    {
+        "nama": "Praseodymium",
+        "simbol": "Pr"
+    },
+    {
+        "nama": "Neodymium",
+        "simbol": "Nd"
+    },
+    {
+        "nama": "Promethium",
+        "simbol": "Pm"
+    },
+    {
+        "nama": "Samarium",
+        "simbol": "Sm"
+    },
+    {
+        "nama": "Europium",
+        "simbol": "Eu"
+    },
+    {
+        "nama": "Gadolinium",
+        "simbol": "Gd"
+    },
+    {
+        "nama": "Terbium",
+        "simbol": "Tb"
+    },
+    {
+        "nama": "Dysprosium",
+        "simbol": "Dy"
+    },
+    {
+        "nama": "Holmium",
+        "simbol": "Ho"
+    },
+    {
+        "nama": "Erbium",
+        "simbol": "Er"
+    },
+    {
+        "nama": "Thulium",
+        "simbol": "Tm"
+    },
+    {
+        "nama": "Ytterbium",
+        "simbol": "Yb"
+    },
+    {
+        "nama": "Lutetium",
+        "simbol": "Lu"
+    },
+    {
+        "nama": "Hafnium",
+        "simbol": "Hf"
+    },
+    {
+        "nama": "Tantalum",
+        "simbol": "Ta"
+    },
+    {
+        "nama": "Tungsten / Wolfram",
+        "simbol": "W"
+    },
+    {
+        "nama": "Rhenium",
+        "simbol": "Re"
+    },
+    {
+        "nama": "Osmium",
+        "simbol": "Os"
+    },
+    {
+        "nama": "Iridium",
+        "simbol": "Ir"
+    },
+    {
+        "nama": "Platinum",
+        "simbol": "Pt"
+    },
+    {
+        "nama": "Emas / Aurum",
+        "simbol": "Au"
+    },
+    {
+        "nama": "Raksa / Hydrargyrum",
+        "simbol": "Hg"
+    },
+    {
+        "nama": "Thallium",
+        "simbol": "Tl"
+    },
+    {
+        "nama": "Timbal / Plumbum",
+        "simbol": "Pb"
+    },
+    {
+        "nama": "Bismuth",
+        "simbol": "Bi"
+    },
+    {
+        "nama": "Polonium",
+        "simbol": "Po"
+    },
+    {
+        "nama": "Astatine",
+        "simbol": "At"
+    },
+    {
+        "nama": "Radon",
+        "simbol": "Rn"
+    },
+    {
+        "nama": "Francium",
+        "simbol": "Fr"
+    },
+    {
+        "nama": "Radium",
+        "simbol": "Ra"
+    },
+    {
+        "nama": "Actinium",
+        "simbol": "Ac"
+    },
+    {
+        "nama": "Thorium",
+        "simbol": "Th"
+    },
+    {
+        "nama": "Protactinium",
+        "simbol": "Pa"
+    },
+    {
+        "nama": "Uranium",
+        "simbol": "U"
+    },
+    {
+        "nama": "Neptunium",
+        "simbol": "Np"
+    },
+    {
+        "nama": "Plutonium",
+        "simbol": "Pu"
+    },
+    {
+        "nama": "Americium",
+        "simbol": "Am"
+    },
+    {
+        "nama": "Curium",
+        "simbol": "Cm"
+    },
+    {
+        "nama": "Berkelium",
+        "simbol": "Bk"
+    },
+    {
+        "nama": "Californium",
+        "simbol": "Cf"
+    },
+    {
+        "nama": "Einsteinium",
+        "simbol": "Es"
+    },
+    {
+        "nama": "Fermium",
+        "simbol": "Fm"
+    },
+    {
+        "nama": "Mendelevium",
+        "simbol": "Md"
+    },
+    {
+        "nama": "Nobelium",
+        "simbol": "No"
+    },
+    {
+        "nama": "Lawrencium",
+        "simbol": "Lr"
+    },
+    {
+        "nama": "Rutherfordium",
+        "simbol": "Rf"
+    },
+    {
+        "nama": "Dubnium",
+        "simbol": "Db"
+    },
+    {
+        "nama": "Seaborgium",
+        "simbol": "Sg"
+    },
+    {
+        "nama": "Bohrium",
+        "simbol": "Bh"
+    },
+    {
+        "nama": "Hassium",
+        "simbol": "Hs"
+    },
+    {
+        "nama": "Meitnerium",
+        "simbol": "Mt"
+    },
+    {
+        "nama": "Darmstadtium",
+        "simbol": "Ds"
+    },
+    {
+        "nama": "Roentgenium",
+        "simbol": "Rg"
+    },
+    {
+        "nama": "Ununbium",
+        "simbol": "Uub"
+    },
+    {
+        "nama": "Ununtrium",
+        "simbol": "Uut"
+    },
+    {
+        "nama": "Ununquadium",
+        "simbol": "Uuq"
+    },
+    {
+        "nama": "Ununpentium",
+        "simbol": "Uup"
+    },
+    {
+        "nama": "Ununhexium",
+        "simbol": "Uuh"
+    },
+    {
+        "nama": "Ununseptium",
+        "simbol": "Uus"
+    },
+    {
+        "nama": "Ununoctium",
+        "simbol": "Uuo"
+    }
+]
